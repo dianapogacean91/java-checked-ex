@@ -1,3 +1,5 @@
+package checked;
+
 public class ErrorCodes {
 
     public static final String NO_UNDERSCORE = "FILE-556";
